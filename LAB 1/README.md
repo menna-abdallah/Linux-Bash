@@ -24,6 +24,6 @@
 ### 6- Change lp to mylp
 ![Uploading 11.jpg…]()
 ### 7- Print all information about greatest uid.
-![12](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/ce1e28a3-9da3-4a53-be46-3579df4355a1)
+![12](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/44a81eb7-c37d-4d8f-a7a8-2221a8232313)
 ### 8- Get the sum of all accounts id’s.
-![13](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/35cc2b3b-2ce0-4032-98d2-df3f787c65bc)
+![13](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/4deb424d-6324-4695-b129-f1b4c0c3ef36)
