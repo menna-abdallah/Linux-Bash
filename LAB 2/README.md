@@ -20,8 +20,10 @@
 ![3 2](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/2f74067a-5fc0-40eb-801f-c06cb82ca558)
 
 ### 4. Create a script called mycd where:
-a. It changed directory to the user home directory, if it is called without arguments.
-b. Otherwise, it change directory to the given directory.
+#### a. It changed directory to the user home directory, if it is called without arguments.
+#### b. Otherwise, it change directory to the given directory.
+![4](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/ea3c8a0b-6d7e-4c46-b4dd-388d5891492c)
+![4 1](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/4e084789-002c-42dd-9da1-93271d8719ff)
 
 ### 5. Create a script called myls where:
 a. It lists the current directory, if it is called without arguments.
