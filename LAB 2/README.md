@@ -26,8 +26,11 @@
 ![4 1](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/4e084789-002c-42dd-9da1-93271d8719ff)
 
 ### 5. Create a script called myls where:
-a. It lists the current directory, if it is called without arguments.
-b. Otherwise, it lists the given directory.
+#### a. It lists the current directory, if it is called without arguments.
+#### b. Otherwise, it lists the given directory.
+![image](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/08548aa9-9b02-49df-86b7-1e49a9dab5d3)
+![image](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/7c95ad19-7d48-41ad-8599-c96ecffe8e02)
+
 6. Enhance the above script to support the following options individually:
 a. –l: list in long format
 b. –a: list all entries including the hiding files.
