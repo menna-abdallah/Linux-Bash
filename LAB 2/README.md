@@ -37,6 +37,8 @@ b. –a: list all entries including the hiding files.
 c. –d: if an argument is a directory, list only its name
 d. –i: print inode number
 e. –R: recursively list subdirectories
+![image](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/302c0043-9e2d-4f54-ae91-0983c0985dae)
+![image](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/7f65eb70-579c-4015-b060-42350e001d9b)
 
 enhance the above script to support the following Synopsis:
 
