@@ -31,26 +31,22 @@
 ![image](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/08548aa9-9b02-49df-86b7-1e49a9dab5d3)
 ![image](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/7c95ad19-7d48-41ad-8599-c96ecffe8e02)
 
-6. Enhance the above script to support the following options individually:
-a. –l: list in long format
-b. –a: list all entries including the hiding files.
-c. –d: if an argument is a directory, list only its name
-d. –i: print inode number
-e. –R: recursively list subdirectories
+### 6. Enhance the above script to support the following options individually:
+#### a. –l: list in long format
+#### b. –a: list all entries including the hiding files.
+### c. –d: if an argument is a directory, list only its name
+### d. –i: print inode number
+### e. –R: recursively list subdirectories
 ![image](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/302c0043-9e2d-4f54-ae91-0983c0985dae)
 ![image](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/7f65eb70-579c-4015-b060-42350e001d9b)
 
-enhance the above script to support the following Synopsis:
-
-myls -option1 –option2
-myls –option2 –option1
-myls –option1option2
-myls –option2option1
-7. Create a script called mytest where:
-a. It check the type of the given argument (file/directory)
-b. It check the permissions of the given argument (read/write/execute)
-8. Create a script called myinfo where:
-a. It asks the user about his/her logname.
-b. It print full info about files and directories in his/her home directory
-c. Copy his/her files and directories as much as you can in /tmp directory.
-d. Gets his current processes status.
+### 7. Create a script called mytest where:
+#### a. It check the type of the given argument (file/directory)
+#### b. It check the permissions of the given argument (read/write/execute)
+![7](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/8a7b12b0-4bd1-4bee-8ddc-955ffb139c40)
+![7 1](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/85f5da3d-ff6f-4c21-b095-9be4b48ea888)
+### 8. Create a script called myinfo where:
+#### a. It asks the user about his/her logname.
+#### b. It print full info about files and directories in his/her home directory
+#### c. Copy his/her files and directories as much as you can in /tmp directory.
+#### d. Gets his current processes status.
