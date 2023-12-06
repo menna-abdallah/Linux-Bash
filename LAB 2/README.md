@@ -50,3 +50,5 @@
 #### b. It print full info about files and directories in his/her home directory
 #### c. Copy his/her files and directories as much as you can in /tmp directory.
 #### d. Gets his current processes status.
+![8](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/95c25c31-c90b-4aa6-9d4c-02c6646131c2)
+![8 1](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/e28909be-559b-40ef-8589-17b31aed6590)
