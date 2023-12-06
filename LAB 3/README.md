@@ -1,18 +1,18 @@
 ### LAB 3
 ### Write a script called mycase, using the case utility to checks the type of character entered by a user:
-Upper Case.
-Lower Case.
-Number.
-Nothing.
+#### Upper Case.
+#### Lower Case.
+#### Number.
+#### Nothing.
 ![1 1](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/dcec6a4f-0eb6-4a3b-ac14-8b0ea5dc9ee1)
 ![1](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/27030bba-fb89-47e0-8d4e-d3acf3ee3222)
 
 ### Enhanced the previous script, by checking the type of string entered by a user:
-Upper Cases.
-Lower Cases.
-Numbers.
-Mix.
-Nothing.
+#### Upper Cases.
+#### Lower Cases.
+#### Numbers.
+#### Mix.
+#### Nothing.
 ![2 2](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/dd2a5ff1-31dd-4301-a7de-72e81b145a91)
 ![2](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/d95beb21-4bbc-424e-af07-3e7f2c19109f)
 
