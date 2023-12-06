@@ -55,6 +55,8 @@ Press 1 to ls
 Press 2 to ls –a
 Press 3 to exit  
 Using select utility then while utility.
+![Screenshot from 2023-12-07 00-53-11](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/426f25ef-47f3-4d81-a200-126e72571db2)
+![Screenshot from 2023-12-07 00-52-52](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/8d1e5baa-7bab-460c-be81-5207369e3d6f)
 
 ### Write a script called myarr that ask a user how many elements he wants to enter in an array, fill the array and then print it.
 ![Screenshot from 2023-12-07 01-07-56](https://github.com/menna-abdallah/Linux-Bash/assets/139376864/cb9b43ec-1130-46c9-b229-d17c9ea7d2d2)
